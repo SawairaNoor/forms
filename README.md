@@ -8,7 +8,7 @@
 </head>
 <body>
    <h1>sawaira</h1>
-    <h1><pre> <i>               Home           Portfolio          Contact       </i>  </pre></h1>
+   
     <div>
         <h3>sawaira</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis earum natus saepe porro, velit dolore tempore cupiditate nisi illo. Soluta, quisquam dolore hic provident ratione nam unde ut in esse?</p>
