@@ -7,11 +7,12 @@
 <link rel="stylesheet" href="/style.css">
 </head>
 <body>
-    <img src="https://www.istockphoto.com/resources/images/PhotoFTLP/P5-JAN-iStock-1426025965.jpeg" alt="wallpaper
-    ">
-    <h1><pre> <i>                              Home           Portfolio          Contact       </i>  </pre></h1>
+   <h1>sawaira</h1>
+    <h1><pre> <i>               Home           Portfolio          Contact       </i>  </pre></h1>
     <div>
-      
+        <h3>sawaira</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis earum natus saepe porro, velit dolore tempore cupiditate nisi illo. Soluta, quisquam dolore hic provident ratione nam unde ut in esse?</p>
+      <h6>sawaira</h6>
        
     </div>
 </body>
